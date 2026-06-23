@@ -19,4 +19,4 @@ Footer: Contains contact details, social media links, and copyright information.
 Purpose:  
 The website demonstrates front-end development skills by combining structure (HTML) and design (CSS). It provides a professional showcase of how a shoe brand can present its products online.
 
-Repository containing my web development project submissions for the Oasis Infobyte Virtual Internship June 2026
+Repository containing my web development project submissions for the Oasis Infobyte Virtual Internship June 2026❗
